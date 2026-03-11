@@ -1,6 +1,6 @@
 # Computer Vision Projects 👁️
 
-This repository is a professional, evolving portfolio of computer vision work by an AI Engineer in the final semester of BS Artificial Intelligence. It is designed to demonstrate both strong technical execution and practical, business-oriented outcomes.
+This repository is a professional, evolving portfolio of computer vision work. It reflects a blend of AI engineering practice, project-based learning, and selected BS AI coursework foundations.
 
 ## 🎯 Purpose
 
