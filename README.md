@@ -15,10 +15,7 @@ This repository is a professional, evolving collection of computer vision work b
 ## Overview
 
 The repository focuses on designing and validating vision solutions that can move from experimentation to production-oriented use cases.
-
-## BS AI Coursework Context
-
-Relevant coursework influence in this repository includes computer vision fundamentals, machine learning foundations, and model evaluation practice.
+It also includes selected implementations aligned with core BS AI computer vision coursework outcomes.
 
 ## Business Goals
 
