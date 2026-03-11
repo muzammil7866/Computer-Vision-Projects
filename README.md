@@ -1,36 +1,57 @@
-# Computer Vision Projects 👁️
+# Computer Vision Projects
 
-This repository is a professional, evolving portfolio of computer vision work. It reflects a blend of AI engineering practice, project-based learning, and selected BS AI coursework foundations.
+This repository is a professional, evolving collection of computer vision work built through practical engineering, independent experimentation, and selected BS AI coursework foundations.
 
-## 🎯 Purpose
+## Table of Contents
 
-The goal of this repository is to build, test, and showcase vision systems that can transition from experimentation to real-world deployment.
+- [Overview](#overview)
+- [Business Goals](#business-goals)
+- [Technology Stack](#technology-stack)
+- [How to Use This Repository](#how-to-use-this-repository)
+- [Repository Guidelines](#repository-guidelines)
+- [Code Guidelines](#code-guidelines)
+- [Future Direction](#future-direction)
 
-## 💼 Business Goals
+## Overview
 
-- Improve decision quality through visual intelligence and automated detection.
-- Reduce manual inspection effort, turnaround time, and operational cost.
-- Build reusable vision pipelines that support scalable AI product development.
-- Support domain use cases such as healthcare, industry, and smart monitoring.
+The repository focuses on designing and validating vision solutions that can move from experimentation to production-oriented use cases.
 
-## 🧰 Tech Stack
+## Business Goals
+
+- Improve decision quality through automated visual analysis.
+- Reduce manual inspection effort and operational turnaround time.
+- Build reusable vision components for scalable AI product development.
+- Support practical use cases across healthcare, monitoring, and industrial workflows.
+
+## Technology Stack
 
 - Languages: Python
-- Core Libraries: NumPy, OpenCV, Pandas, Matplotlib
-- Deep Learning: TensorFlow, Keras, PyTorch (as projects require)
-- Model Families: CNNs, MobileNet variants, YOLO family, transfer learning approaches
-- Tooling: Jupyter Notebook, Git/GitHub, experiment tracking and visualization utilities
+- Core libraries: OpenCV, NumPy, Pandas, Matplotlib
+- Deep learning: TensorFlow, Keras, PyTorch (project dependent)
+- Common model families: CNNs, transfer learning pipelines, detection architectures
+- Tooling: Jupyter notebooks, script-based pipelines, Git/GitHub
 
-## 🚀 Roadmap Mindset
+## How to Use This Repository
 
-This repository is intentionally future-facing and not limited to current folders. Upcoming work may include:
-- Vision transformers and multimodal vision-language experimentation
-- MLOps-ready training and inference pipelines
-- Model optimization for edge and low-latency deployment
-- Explainability, monitoring, and responsible AI practices
+1. Open a project folder based on your target task (classification, detection, preprocessing, or experimentation).
+2. Read any local notes or setup files in that folder.
+3. Install project dependencies and run notebooks/scripts from that project directory.
+4. Use outputs and evaluation artifacts as baselines for further experiments.
 
-## 📌 How To Navigate
+## Repository Guidelines
 
-- Each project folder is self-contained with code, data references, and notes where applicable.
-- Repository structure will continue to evolve as new research and applied projects are added.
-- Treat this repository as a living AI engineering workspace, not a final snapshot.
+- Each top-level folder is treated as an independent project track.
+- Folder structure may vary depending on research stage or delivery objective.
+- Keep datasets and large artifacts external when needed, and reference access instructions clearly.
+- Maintain project-specific documentation when adding new work.
+
+## Code Guidelines
+
+- Prefer clear module boundaries: data preparation, training/inference, and evaluation.
+- Use configuration-driven parameters instead of hardcoded constants.
+- Keep notebooks reproducible and move reusable logic into scripts/modules.
+- Use descriptive naming and concise inline comments only where logic is non-obvious.
+
+## Future Direction
+
+This repository is intentionally open-ended. New projects will continue to be added, including stronger deployment workflows, model optimization, and broader real-world vision applications.
