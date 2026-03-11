@@ -15,7 +15,6 @@ This repository is a professional, evolving collection of computer vision work b
 ## Overview
 
 The repository focuses on designing and validating vision solutions that can move from experimentation to production-oriented use cases.
-It also includes selected implementations aligned with core BS AI computer vision coursework outcomes.
 
 ## Business Goals
 
